@@ -1,0 +1,24 @@
+{
+  "_links": {
+    "self": {
+      "href": "http://127.0.0.1:8070/actuator",
+      "templated": false
+    },
+    "health-component": {
+      "href": "http://127.0.0.1:8070/actuator/health/{component}",
+      "templated": true
+    },
+    "health-component-instance": {
+      "href": "http://127.0.0.1:8070/actuator/health/{component}/{instance}",
+      "templated": true
+    },
+    "health": {
+      "href": "http://127.0.0.1:8070/actuator/health",
+      "templated": false
+    },
+    "info": {
+      "href": "http://127.0.0.1:8070/actuator/info",
+      "templated": false
+    }
+  }
+}

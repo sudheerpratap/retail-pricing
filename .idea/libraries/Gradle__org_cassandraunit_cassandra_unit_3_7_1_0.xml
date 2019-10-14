@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.cassandraunit:cassandra-unit:3.7.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cassandraunit/cassandra-unit/3.7.1.0/6306f821dcad63ffe62e4ff3dbac90523a06bdeb/cassandra-unit-3.7.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cassandraunit/cassandra-unit/3.7.1.0/850bdac858f44af5bd917b1cda4623ea122a049e/cassandra-unit-3.7.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,59 @@
+GET http://127.0.0.1:8070/actuator
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+###
+
+GET http://127.0.0.1:8070/actuator
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-10-06T082103.200.json
+
+###
+
+GET http://127.0.0.1:8070/actuator
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-10-06T082057.200.json
+
+###
+
+GET http://127.0.0.1:8070/actuator
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-10-06T080712.200.json
+
+###
+
+GET http://127.0.0.1:8070/actuator/health
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-10-06T080707.200.json
+
+###
+
+GET http://127.0.0.1:8070/swagger-resources/configuration/ui
+
+<> 2019-10-06T080701.200.json
+
+###
+
+GET http://127.0.0.1:8070/swagger-resources/configuration/security
+
+<> 2019-10-06T080652.200.json
+
+###
+
+GET http://127.0.0.1:8070/actuator/info
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-10-06T080646.200.json
+
+###
+
+GET http://127.0.0.1:8070/actuator/health
+Accept: application/vnd.spring-boot.actuator.v2+json
+
+<> 2019-10-06T080625.200.json
+
+###
+
